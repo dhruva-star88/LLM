@@ -1,3 +1,4 @@
+from langchain.llms.huggingface_hub import HuggingFaceHub
 API_KEY ="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"
 
 from langchain.llms.huggingface_hub import HuggingFaceHub
